@@ -222,4 +222,4 @@ The system was compiled with `avr-gcc` and validated under **Proteus 8 VSM** usi
 
 * **Project Developer:** Embedded Systems Engineer
 
-* **Target Industry:** Avionics, Defense, and Real-Time Embedded Software (Safran / Thales Focus)
+* **Target Industry:** Avionics, Defense, and Real-Time Embedded Software 
