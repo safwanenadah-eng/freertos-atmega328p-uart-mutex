@@ -1,0 +1,29 @@
+# ==========================================
+# Fichiers de compilation (AVR-GCC / Make)
+# ==========================================
+*.o
+*.elf
+*.hex
+*.eep
+*.lss
+*.sym
+*.map
+*.d
+
+# ==========================================
+# Fichiers de projet & simulation Proteus
+# ==========================================
+# Sauvegardes automatiques et logs Proteus
+*.pdsbak
+*.workspace
+*.pdsprj.workspace
+*.pdsprj.DESKTOP-*
+*.pdsprj.*.workspace
+
+# ==========================================
+# Éditeurs de code & OS (VS Code, Windows)
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
